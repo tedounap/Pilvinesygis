@@ -1,0 +1,168 @@
+Company administrator
+1.	Do you want an overview of each branch separately? Yes, please.
+2.	What kind of information you would like to see there? At the end on of each day income/outgoings report.
+3.	So there is no need for live overview of branches? No, not at all.
+4.	Should the information be displayed in graphs or something else? I would like to see a graph of a branch income where I can pick the suitable time period.
+5.	 Do you need a function to add another restaurant if needed? Yes, of course.
+6.	What kind of information should be as an input? Location, manager id.
+7.	Why do you need a manager id? The manager will input the other information about the restaurant.
+8.	 Is there any difference where is the restaurant located? I would like to have some restaurant groups based on the location.
+9.	Based on what should the program make groups of restaurant? Based on the country.
+10.	What kind of information do you want to be the displayed from the groups? Income/outgoings overview where I can pick the suitable time period.
+11.	How do you keep record of your workers work hours? The program needs to have an ability to keep track of workers and their work hours. If the worker comes to work, he needs to log in or someway let the program know that he/she has arrived.
+12.	How do you feel about using fingerprint sensors for that? Yes, I guess that would do the work.
+13.	Do you want to make notes about your workers? Yes, why not.
+14.	Should you be the only one who can see the notes? No, restaurant manager should also be able to make notes and edit them.
+15.	How do you make difference between regular customers and random customers? We offer a chance to make a client card.
+16.	How do you make it? It’s restaurant manager’s job.
+17.	Is there different classes of regular patrons? Yes, there should be.
+18.	Based on what do we classify them? Based on the spending
+19.	 Which are the discount %? 5%-10%-15%-20%.
+20.	And how do they achieve different discounts? Every 300 euros spent will unlock a new level of discount.
+21.	And is the discount class forever or does it expires? It should expire in a year.
+
+Restaurant manager
+1.	Do you need to have live overview of current goods in warehouse? No, there is no need for that, if I get it by the end of the day, its good enough.
+2.	Should there be an alert if some goods are running low? Yes, why not.
+3.	Do you want a function which makes automatic orders if the good is running low? Not automatic, I still want to confirm all the orders by myself but it is a good idea.
+4.	From where do you get information of your regular patrons? Our clients have an opportunity to make client cards.
+5.	And how do they make them? If the client makes a huge order or he is seen in the place often, the head waiter will need to propose the idea of making it to him. The second way is for client to ask it
+6.	And what information do you need from the client? Name, e-mail, phone, and that should be all.
+7.	Do you want to send advertisements to clients all at once if there are discount days coming? Yes of course, as well I would like to send different e-mails to different levels of customers.
+8.	Should the e-mail be automatic or you want to confirm them? I want to write them by myself every time differently and send them manually, so no automatic e-mails.
+9.	Is the tip included in prices? No, the waiters get tip only from the tables.
+10.	Does the head waiter get tip % from waiters? Yes, head waiter will do most of the time waiter’s job anyway.
+11.	Does kitchen workers get tip % from waiters? Yes they do, otherwise they don’t have a chance to get any tip at all.
+12.	Are you the one who makes the work timesheets? Yes, that’s me.
+13.	Do you want to make it manually or we make script which does it for you? Yes if the script can take into account every worker peculiarities about the work hours.
+14.	We can make the table where all the workers can put the suitable time for them and the program will make the best timesheet. Is that okay? Yes, sounds reasonable.
+15.	Do you want to fill in the missing gaps if there are some manually or the program will fill them in randomly? I would like to fill in those gaps manually
+16.	Do you want to confirm the timesheet if there is no missing gaps? Yes, why not.
+17.	Is there anything else you would like to add? Yes, of course, if the worker arrives late I would like a notification about it...
+18.	Where do you want that notification? E-mail would be good, as well there should be an automatic note about it under that workers note section.
+19.	Is that all? No, I would also want the surveillance cameras from the restaurant be directed to my account, so whoever is the manager, can see the all the cameras while logged in.
+20.	Mkay, all cameras or only the ones inside? All of them…
+Waiter - 
+1.	Should the bill be dividable? What do you mean
+2.	If different groups on one table (which has 1 bill) want to pay seperately, should the bill be dividable? Yes
+3.	How the bill should be divided? Hmm, could you be more specific
+4.	Into different bills, or by removing items that are paid for?
+5.	Should waiters be able to hand the bill over to the other waiters? What do you mean by that
+6.	If your work ends and you have open tables, are you going to stay longer or give it to another waiter? Yes, that would be nice
+7.	How do you calculate cash register bonus from that bill? System should show how much each waiter served the table
+8.	Do you prefer buttons or touchpad? Touchpad sounds more innovative.
+9.	Sould the system register your workhours? Thats not up to me, but I wouldn't like it.
+10.	How many tables can you handle? that depends on how big tables are and how many waiters are there. 
+11.	So should we add a limit on how much tables can 1 waiter take? No, there may be a lot of small tables and few waiters.
+12.	Should the coustomer pay when he/she orders or the bill stays open? The bill can stay open
+13.	Should there be a limit on open bills? Thats not up for me to decide, but it would be good, if there is. It avoids not paying big bills
+14.	Should the tip be included? I think yes, because estonian people usually are cheap with tip.
+15.	How big should the tip be in %? 15-20 % of the bill would be nice.
+16.	Should the system send info directly to the chefs? Yes, definitely.
+17.	Should the system alert you, when the food is ready? Yes
+18.	Should the system show when some of the items on the menu are sold out? Yes, that would avoid inconveniences.
+19.	If the client likes or dislikes the food/beverage do you need a button to let chefs know about it? No i'd like to tell it myself.
+20.	Should the system calculate how much you have to give money back to the coustomer? Yes, that's something I've dreamt about.
+
+Head waiter:
+1.	If the bill gets too big, do you need an alert about it? Yes, then i know where to keep my eye on.
+2.	Do you need to see waiters cash register? Yes, but only at the end of the day.
+3.	Do you need to see information about open bills? Yes, i should see that.
+4.	Shoud you be able to see which waiter serves which open bill? Definitely yes, because if they want the bill then I can chech whose table it is and inform the waiter about it.
+5.	If customer does no	t want open bill and pays right away, do you need to see information about that? No
+6.	Should you be the one who handles reservations in system? Yes , that is part of my job .
+7.	Should you be albe to insert reservation into the system? Yes, it would be good.
+8.	Should the system alert you when reservation is coming? Yes,  it should alert us a few hours earlier.
+9.	Should you be able to make changes in work timesheet? I think that this is managers problem.
+10.	Should you be able to recruit new staff? Yes, if that is neccessary.
+11.	If needed, should you be able to make changes in the menus ? Yes, if some food chances, then i should be able to make these changes in the menu.
+12.	Do you want a chance to add comments on initial and end state? Hmm, what do you mean?
+13.	If someone higher takes money from cash register do you have to mark this on the system?Yes , that’s good.
+14.	Should the system register your work hours? No ,it should just register what time the cash register is opened and closed.
+15.	Do you also serve tables? Yes , most of the time I am doing the same job as waiter.
+16.	Do you prefer buttons or touchpad? Buttons, because I’m an oldschool guy.
+17.	If a client wants to sign a clientcard, then should you sign it or a usual waiter? I think that this my obligation.
+18.	Do you need a function to add clientcard information to database? Yes, it’s important.
+19.	What information should it contain? It should include name , e-mail  and phone number.
+20.	If the card does not activate straight away, should you be able to do discount ? Yes, important to keep our clients satisfied.
+
+
+List of users: 
+1)	Company administrator
+2)	Restaurant manager
+3)	Head Waiter
+4)	Waiter
+
+
+Company administrator Functions:
+1.	Income graph, time period can be selected.
+2.	Outcome graph, time period can be selected.
+3.	Profit graph, time period can be selected.
+4.	Opportunity to select different restaurants and see the above information.
+5.	Opportunity to select different groups of restaurants and see the above information.
+6.	Function to add a new restaurant.
+7.	Function to make different restaurant groups from the existing restaurants.
+8.	Function for workers to register their arrival/check out’s.
+9.	Function to make notes about workers.
+Restaurant manager Functions:
+1.	Function to calculate the approximate amount of goods in the warehouse.
+2.	Function to alert if goods are running low.
+3.	Function to add regular patron.
+4.	Function to send advertisement to a group of regular patrons.
+5.	Function to make workers timesheet.
+6.	Function to add workers work hour’s wishes.
+7.	 Function to keep track and let know if workers are being late to work.
+8.	Function to add automatic note under workers notes if he/she is late
+9.	Function to show surveillance cameras
+Head waiter functions: 
+1.	Change the menu:
+2.	Function to alert when bill gets too big. 
+3.	Automatic function to show waiters cash registers at the end of each day.
+4.	Function to check who serves the table.
+5.	Insert reservations.
+6.	Edit reservation.
+7.	Automatic to alert when reservation is coming up (2h before).
+8.	Function to add new staff.
+9.	Register initial and end state of cash register.
+10.	Automatic function to add timestamp to initial and end state.
+11.	Function to add notes to that.
+12.	Function to make a client card.
+13.	Function to make discount without clientcard.
+Waiter Functions:
+1.	Function to divide the bills
+2.	Function to show which part of the bill is paid for and which is not.
+3.	Function to hand over the open bill to another waiter.
+4.	Automatic function to close the bill and open the same bill  by another waiter
+5.	Automatic function to calculate how much which waiter served the divided bill.
+6.	Function choose orders from the kitchen (choose items for the whole table)
+7.	Function to send orders to kitchen.
+8.	Function to add note to the food (If someone has to remove some ingredients or smth).
+9.	Function to get alerts when the food is ready.
+10.	Function to get alert when something is sold out.
+11.	Function to calculate how much money should the waiter give back.
+12.	Function to start your work day.
+13.	Function to end your work day.
+14.	Function to open new table.
+15.	Function to end table.
+16.	Function to edit table (add new orders).
+17.	Function to make a discount.
+18.	Function to get worker discount if he/she gets hungry.
+19.	Function to calculate daily sum.
+20.	Function to choose between cash or card payment.
+
+SMART things
+Performance:
+1. Capable to connect with other devices (fingerprint reader, cash register, offline card payment, cameras etc.)
+2. Must be capable to work 24/7 while handling over 100 customers at the same time.
+3. Should send information via internet to company administrator every day.
+4. Can be used with Windows/iOS/Linux.
+5. If system crashes, it should be able to recover to the state right before the crash.
+
+Usability:
+1. Easy to use/learn.
+2. Undo should be available. 
+3. Easy to understand ( not too many things on the screen).
+4. Should be available in different languages.
+5. Different groups have different rights.
+
+
